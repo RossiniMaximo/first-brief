@@ -14,7 +14,7 @@ Construír una aplicación web donde los ciudadanos puedan emitir sus reportes d
 
 MVP :
 
-Los usuarios pueden emitir reportes y dejar una nota en cierta ubicación. Al haber mas de 10 reportes de diferentes usuarios en la misma ubicación automaticamente se informa al municipio de Lanús para que esa calle sea reparada. Cada usuario puede emitir 1 solo reporte por ubicación. Para crear usuario se utiliza el DNI para evitar falsos reportes. Una vez solucionada la problematica , se alertara en el mapa y los usuario podrán corroborar.
+Los usuarios pueden emitir reportes una vez autenticados.Cada usuario puede emitir 1 solo reporte por ubicación. Para crear usuario se vinculara con su cuenta de Gmail para evitar falsos reportes.Una vez solucionada la problematica , se alertara en el mapa y los usuario podrán corroborar.
 
 Proyectos similares :
 
